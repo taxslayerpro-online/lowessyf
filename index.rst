@@ -18,7 +18,7 @@ confusion—no unnecessary steps, no misleading links.
 
 
 
----
+
 
 What Exactly Is lowes.syf.com/activate?
 --------------------------------------
@@ -32,9 +32,9 @@ It allows users to securely:
 - Complete setup without downloading anything
 - Finish activation in just a few minutes
 
----
 
-How to Activate (Simple & Clear)
+
+How to Activate ?
 --------------------------------
 
 Follow these steps carefully:
@@ -47,7 +47,7 @@ Follow these steps carefully:
 
 That’s it. No extra forms, no unnecessary sign-ups.
 
----
+
 
 Common Issues Users Face
 ------------------------
@@ -64,7 +64,7 @@ Common Issues Users Face
   - Restart the process  
   - Ensure stable internet connection  
 
----
+
 
 Is lowes.syf.com Safe to Use?
 ----------------------------
@@ -74,7 +74,7 @@ Always make sure the URL starts with **https://** before entering any code.
 
 Never share your activation code on third-party websites.
 
----
+
 
 Need to Activate Right Now?
 ---------------------------
@@ -90,7 +90,6 @@ Need to Activate Right Now?
      </a>
    </div>
 
----
 
 Frequently Asked Questions
 --------------------------
@@ -104,7 +103,7 @@ Yes, the site works on both mobile and desktop browsers.
 **How long does activation take?**  
 Most users finish within a few minutes.
 
----
+
 
 About This Website
 ------------------
@@ -113,6 +112,6 @@ This is an independent informational website created to help users
 understand and correctly use **lowes.syf.com/activate**.
 We are not directly affiliated with Lowe’s or Synchrony.
 
----
+
 
 
