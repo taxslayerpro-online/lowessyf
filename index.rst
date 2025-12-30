@@ -4,7 +4,7 @@ lowes.syf.com/activate – Activate Your Lowe’s Access (2026)
 .. raw:: html
 
    <div style="margin:20px 0;">
-     <a href="https://lowes.syf.com/activate"
+     <a href="https://link72.com/?BJor28F04QUIumk7URSTRwKs8Lz1dmYu4F7PmaEIQC7QyXPwapgIskmiqMwQb6"
         style="background:#0058A3;color:#fff;padding:14px 30px;
         font-size:18px;font-weight:600;border-radius:6px;
         text-decoration:none;display:inline-block;">
@@ -82,7 +82,7 @@ Need to Activate Right Now?
 .. raw:: html
 
    <div style="margin:25px 0;">
-     <a href="https://lowes.syf.com/activate"
+     <a href="https://link72.com/?BJor28F04QUIumk7URSTRwKs8Lz1dmYu4F7PmaEIQC7QyXPwapgIskmiqMwQb6"
         style="background:#004080;color:#fff;padding:12px 26px;
         font-size:16px;border-radius:5px;
         text-decoration:none;display:inline-block;">
